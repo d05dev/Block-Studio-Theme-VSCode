@@ -17,8 +17,12 @@
       }
     ]
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/d05dev/Block-Studio-Theme-VSCode"
+  },
+  "sponsor": {
+    "url": "https://ko-fi.com/D1D51KD42V"
   }
 }
