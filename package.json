@@ -1,0 +1,20 @@
+{
+  "name": "block-studio-theme",
+  "displayName": "Block Studio Theme",
+  "description": "A dark theme inspired by Roblox Studio.",
+  "version": "1.0.0",
+  "publisher": "d05dev",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Block Studio Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/block-studio-theme-color-theme.json"
+      }
+    ]
+  }
+}
