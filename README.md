@@ -14,7 +14,7 @@ A beautiful theme inspired by Roblox Studio.
 4. Enjoy!
 
 ____
-<!-- <p style="text-weight: 500; font-size: 2em;> <span class="loveTheme">❤️ this Theme?</span> <span class="supportDev"><a href="https://ko-fi.com/d05dev" style="color: #ff6434;">#supportFreeSoftware</a><span></p> -->
+<br>
 <a href="https://ko-fi.com/D1D51KD42V"><img src="https://greencoinstudios.com/loveTheme3.png" height ='72'></img></a>
 <p>Even a small amount goes a long way:</p>
 <a href='https://ko-fi.com/D1D51KD42V' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>  
@@ -23,4 +23,7 @@ ____
 <br>
 <hr>
 <br>
-<i>This extension was independently developed and is not affiliated with Roblox. "Roblox" and "Roblox Studio" are registered trademarks owned by Roblox Corporation.</i>
+<b>LICENSE: <a href="https://github.com/d05dev/Block-Studio-Theme-VSCode/blob/master/LICENSE">MIT</a></b>
+<br>
+<br>
+<small>This extension was independently developed and is not affiliated with Roblox. "Roblox" and "Roblox Studio" are registered trademarks owned by Roblox Corporation.</small>
