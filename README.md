@@ -15,7 +15,7 @@ A beautiful theme inspired by Roblox Studio.
 
 ____
 <br>
-<a href="https://ko-fi.com/D1D51KD42V"><img src="https://greencoinstudios.com/loveTheme3.png" height ='72'></img></a>
+<a href="https://ko-fi.com/D1D51KD42V"><img src="https://greencoinstudios.com/loveTheme3.png" width='550'></img></a>
 <p>Even a small amount goes a long way:</p>
 <a href='https://ko-fi.com/D1D51KD42V' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>  
 <br>
