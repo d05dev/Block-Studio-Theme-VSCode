@@ -53,7 +53,7 @@
       "settings": { "foreground": "#666666" }
     },
     {
-      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "scope": ["keyword", "storage.type", "storage.modifier", "entity.name.tag.localname.xml"],
       "settings": { "foreground": "#f86d7c", "fontStyle": "bold" }
     },
     {
