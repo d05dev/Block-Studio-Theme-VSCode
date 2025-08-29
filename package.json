@@ -2,7 +2,7 @@
   "name": "block-studio-theme",
   "displayName": "Block Studio Theme",
   "description": "A dark theme inspired by Roblox Studio.",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "publisher": "d05dev",
   "engines": {
     "vscode": "^1.50.0"
