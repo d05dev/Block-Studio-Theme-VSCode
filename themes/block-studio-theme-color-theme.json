@@ -1,4 +1,3 @@
-// Copyright 2025 Daniel Porter, Green Coin Studios
 {
   "name": "Block Studio Theme",
   "type": "dark",
@@ -45,7 +44,8 @@
     "semanticTokenColors": {
     "operatorOverloaded": "#CCCCCC",
     "field": "#CCCCCC",
-    "enumMember": "#61a1f1"
+    "enumMember": "#61a1f1",
+    "class": "#CCCCCC"
   },
   "tokenColors": [
     {
